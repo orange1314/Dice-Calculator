@@ -67,7 +67,7 @@ Dice 係數是一種用於衡量兩個集合相似度的統計指標。它通常
 ### 計算方法
 Dice 係數的計算公式為：
 
-$ Dice(A, B) = \frac{2 \times |A \cap B|}{|A| + |B|} $
+$$ Dice(A, B) = \frac{2 \times |A \cap B|}{|A| + |B|} $$
 
 其中：
 - $( A ) 和 ( B )$ 分別是兩個集合。
